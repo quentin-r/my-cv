@@ -30,6 +30,12 @@ a:hover {
 	color: black;
 }
 
+@media (max-width: 500px) {
+	body {
+		width: 350px;
+	}
+}
+
 #pp {
     display:block;
     width: 290px;
