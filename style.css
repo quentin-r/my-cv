@@ -1,0 +1,120 @@
+body {
+	background: rgb(234, 234, 234);
+	color: rgb(30, 30, 30);
+	font-family: Courier;
+}
+
+h1 {
+	color: black;
+	font-family: Helvetica;
+	font-weight: 800;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: rgb(90, 90, 90);
+	font-family: Courier;
+	font-size: 24px;
+	font-weight: bold;
+
+}
+
+a{
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: bold;
+}
+a:hover {
+	color: black;
+}
+
+#pp {
+    display:block;
+    width: 290px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 50%;
+    border: 6px solid #334E58;
+}
+
+.autre {
+	padding-right: 50px;
+}
+
+#home {
+	width : 700px; 
+	margin: 50px auto; 
+	background: rgb(235, 235, 235); 
+	padding: 60px; 
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); 
+	border-radius: 4px;
+}
+#rubrique {
+	background: rgb(230, 230, 230); 
+	padding: 60px; 
+	margin: 50px auto; 
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); 
+	border-radius: 4px;
+}
+#detail {
+	width: 450px; 
+	background: rgb(230, 230, 230); 
+	padding: 10px; 
+	margin: 50px auto; 
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); 
+	border-radius: 4px;
+	border: 1px solid black;
+}
+#bouton {
+	margin: 0px auto;
+	text-align: center;
+	padding: 7px;
+	padding-bottom: 7px;
+}
+
+.MyButton {
+	width: 400px;
+	margin: 2 auto;
+	padding: 7px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 150%;
+	background: rgb(95, 95, 95);
+	color: #fff;
+	border: 1px solid rgb(0, 0 ,0);
+	border-radius: 5px;
+	text-align: center;
+}
+.MyButton:hover {
+	opacity: 0.9;
+}
+.list-without-bullet-point {
+	list-style-type:none;
+	text-align: center;
+	padding: 0;
+}
+
+.inline {
+	display: inline;
+	padding: 30px;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 50px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook:hover {
+	opacity: 0.7;
+}
+
+.fa-linkedin-in {
+	opacity: 0.7;
+}
+
+  
