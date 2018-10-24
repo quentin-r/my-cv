@@ -33,17 +33,17 @@ a:hover {
 @media (max-width: 960px) {
   body {
     width: 700px;
-  }
+}
 }
 @media (max-width: 720px) {
   body {
     width: 500px;
-  }
+}
 }
 @media (max-width: 540px) {
   body {
     width: 300px;
-  }
+}
 }
 
 #pp {
